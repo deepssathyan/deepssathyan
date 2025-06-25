@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Deepthi Sathyanarayanan
 
 🔍 **Data Analyst | ML Practitioner | Data Architecture Enthusiast**  
-🎓 MS in Information Systems @ CSULB | 💻 Cloud & Pipeline Builder | 📦 KPI & Strategy Analytics  
+🎓 Recent grad, MS in Information Systems @ CSULB | 💻 Cloud & Pipeline Builder | 📦 KPI & Strategy Analytics  
 📍 Based in the U.S. | 🌎 Open to Relocation | 🔄 Actively Seeking Full-Time Opportunities
 
 ---
