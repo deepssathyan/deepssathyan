@@ -1,58 +1,57 @@
-# 👋 Hello, I'm Deepthi Sathyanarayanan
+# 👋 Hey there, I'm Deepthi Sathyanarayanan
 
-🎯 **Data Analyst | ML Enthusiast | Aspiring Google Ads Specialist**  
-🎓 MS in Information Systems @ CSULB | 📍 Based in the U.S. | 🌐 Open to Relocation  
-
----
-
-## 🚀 Who I Am
-
-A data-first thinker with a passion for transforming complexity into clarity.
-
-I bring together experience in data analytics, machine learning, and marketing strategy to build scalable, insight-driven solutions. Whether it's forecasting student engagement, designing KPI frameworks, or simulating full-funnel ad campaigns, I approach problems with structure, creativity, and precision.
-
-With a strong foundation in cloud technologies, statistical modelling, and business intelligence, I strive to make data not just accessible but actionable.
+🔍 **Data Analyst | ML Practitioner | Data Architecture Enthusiast**  
+🎓 MS in Information Systems @ CSULB | 💻 Cloud & Pipeline Builder | 📦 KPI & Strategy Analytics  
+📍 Based in the U.S. | 🌎 Open to Relocation | 🔄 Actively Seeking Full-Time Opportunities
 
 ---
 
-## 🧠 Technical Strengths
+## 💡 About Me
 
-- **Languages**: Python, SQL, R, Go  
-- **Analytics & Visualisation**: Tableau, Power BI, Looker, Excel, Airtable  
-- **Machine Learning & Data Science**: TensorFlow, PyTorch, Scikit-learn, ResNet, SVM, Bayesian Tuning  
-- **Cloud & Data Platforms**: AWS (Redshift, S3, SageMaker), GCP (BigQuery, Dataflow), Azure, Snowflake, Spark, Kafka  
-- **Marketing Analytics**: Google Ads (Search, Display), GA4, Tag Manager (simulated), A/B Testing, Keyword Research  
-- **Other Tools**: GitHub, JIRA, Confluence, Salesforce, PostgreSQL, APIs
+I specialise in building scalable, insight-driven data solutions — blending analytical rigor with modern cloud architecture. With hands-on experience in **machine learning**, **data pipelines**, and **real-time analytics**, I bring both technical depth and business impact to the table.
+
+Whether I’m forecasting user engagement, refactoring SQL workflows, or training a CNN for image-based age estimation, I approach every challenge with a mindset rooted in **efficiency**, **clarity**, and **collaboration**.
+
+I’ve delivered results in academic mentorship, product development, and operational analytics — now I'm looking to contribute in **data-centric teams** solving meaningful, high-scale problems.
 
 ---
 
-## 📌 What I Do Well
+## 🧠 Technical Stack
 
-- 📊 Design KPI frameworks & dashboards that enable clear decision-making  
-- 🧪 Build statistical models and ML pipelines for predictions and optimization  
-- ⚙️ Automate, clean, and transform data workflows across tools and formats  
-- 🔍 Apply analytical thinking to marketing, operations, and product strategy  
-- 🤝 Collaborate cross-functionally in Agile environments with product, data, and business teams
+**Languages & Libraries:** Python, SQL, R, Go, Bash, Pandas, NumPy, TensorFlow, PyTorch, scikit-learn  
+**BI & Visualization:** Tableau, Power BI, Looker, Excel  
+**Data Engineering:** Apache Spark, Kafka, Airflow, DBT (learning), ETL Design, Star/Snowflake Schemas  
+**Cloud Platforms:**  
+- **AWS:** SageMaker, Lambda, Glue, Redshift, S3  
+- **GCP:** BigQuery, Dataflow  
+- **Others:** Snowflake, Databricks, Docker, Terraform  
+**Tools & Practices:** GitHub, Git, CI/CD, REST APIs, Jira, Confluence, SAP, Jenkins  
+
+---
+
+## 🔧 Focus Areas
+
+- ⚙️ **Data Pipeline Engineering** – Building and optimizing pipelines for ingest, transform, and insight delivery  
+- 📈 **ML & Predictive Analytics** – Structuring models that solve operational and user-facing problems  
+- 🧩 **BI Strategy & KPI Frameworks** – Designing dashboards that turn strategy into visibility  
+- ☁️ **Cloud-Native Analytics** – Deploying scalable solutions across AWS, GCP, and modern data stacks  
+- 🔁 **Collaboration & Mentorship** – Leading with clarity in agile environments and mentoring future analysts
 
 ---
 
 ## 🌱 Currently Exploring
 
-- **Amazon SageMaker** for deployment and orchestration workflows  
-- **Apache Arrow** for memory-efficient data pipelines  
-- **Real-world nonprofit campaign analytics via Google Ad Grants**
+- Apache Arrow for efficient analytics memory management  
+- Data Contracts & Reverse ETL workflows  
+- Deployment orchestration with DBT & Airflow  
 
 ---
 
-## 🤝 Open to Opportunities
+## 🤝 Let’s Connect
 
-Actively seeking **internships or full-time roles** in:
-
-- Data & Business Analytics  
-- Marketing Analytics  
-- Strategy & BI Engineering  
-- Ad Tech / Measurement Science  
+I’m always excited to engage with teams tackling challenges in **data infrastructure**, **AI/ML deployment**, and **analytics strategy**.  
+Feel free to connect for collaboration, code reviews, or coffee chats on all things data!
 
 ---
 
-> *"Great analysis doesn’t just answer questions — it sparks better ones."*
+> *"Data becomes valuable when it's engineered for clarity, scaled for growth, and interpreted with purpose."*
