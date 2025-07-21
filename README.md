@@ -8,11 +8,11 @@
 
 ## 💡 About Me
 
-I specialise in building scalable, insight-driven data solutions — blending analytical rigor with modern cloud architecture. With hands-on experience in **machine learning**, **data pipelines**, and **real-time analytics**, I bring both technical depth and business impact to the table.
+I specialise in building scalable, insight-driven data solutions, blending analytical rigor with modern cloud architecture. With hands-on experience in **machine learning**, **data pipelines**, and **real-time analytics**, I bring both technical depth and business impact to the table.
 
 Whether I’m forecasting user engagement, refactoring SQL workflows, or training a CNN for image-based age estimation, I approach every challenge with a mindset rooted in **efficiency**, **clarity**, and **collaboration**.
 
-I’ve delivered results in academic mentorship, product development, and operational analytics — now I'm looking to contribute in **data-centric teams** solving meaningful, high-scale problems.
+I’ve delivered results in academic mentorship, product development, and operational analytics now I'm looking to contribute in **data-centric teams** solving meaningful, high-scale problems.
 
 ---
 
