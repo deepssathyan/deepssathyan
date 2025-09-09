@@ -1,57 +1,77 @@
 # 👋 Hey there, I'm Deepthi Sathyanarayanan
 
-🔍 **Data Analyst | ML Practitioner | Data Architecture Enthusiast**  
-🎓 Recent grad, MS in Information Systems @ CSULB | 💻 Cloud & Pipeline Builder | 📦 KPI & Strategy Analytics  
+💻 Full-Stack Engineer | Data Engineer | AI/ML Practitioner
+🎓 MS in Information Systems @ CSULB
 📍 Based in the U.S. | 🌎 Open to Relocation | 🔄 Actively Seeking Full-Time Opportunities
 
 ---
 
 ## 💡 About Me
 
-I specialise in building scalable, insight-driven data solutions, blending analytical rigor with modern cloud architecture. With hands-on experience in **machine learning**, **data pipelines**, and **real-time analytics**, I bring both technical depth and business impact to the table.
+I build **scalable, secure, and insight-driven platforms** that merge full-stack engineering with data infrastructure and AI/ML. With hands-on experience across **SaaS development, cloud systems, and predictive analytics**, I focus on delivering products that are both technically sound and business impactful.
 
-Whether I’m forecasting user engagement, refactoring SQL workflows, or training a CNN for image-based age estimation, I approach every challenge with a mindset rooted in **efficiency**, **clarity**, and **collaboration**.
-
-I’ve delivered results in academic mentorship, product development, and operational analytics now I'm looking to contribute in **data-centric teams** solving meaningful, high-scale problems.
+From designing **real-time data pipelines** and deploying **Next.js + PostgreSQL apps** on Vercel, to optimizing **ML workflows in AWS/GCP**, I thrive in environments where **engineering, analytics, and product strategy intersect**.
 
 ---
 
 ## 🧠 Technical Stack
 
-**Languages & Libraries:** Python, SQL, R, Go, Bash, Pandas, NumPy, TensorFlow, PyTorch, scikit-learn  
-**BI & Visualization:** Tableau, Power BI, Looker, Excel  
-**Data Engineering:** Apache Spark, Kafka, Airflow, DBT (learning), ETL Design, Star/Snowflake Schemas  
-**Cloud Platforms:**  
-- **AWS:** SageMaker, Lambda, Glue, Redshift, S3  
-- **GCP:** BigQuery, Dataflow  
-- **Others:** Snowflake, Databricks, Docker, Terraform  
-**Tools & Practices:** GitHub, Git, CI/CD, REST APIs, Jira, Confluence, SAP, Jenkins  
+### Frontend / Full-Stack
+
+* TypeScript, React, Next.js
+* REST & GraphQL APIs, Auth0
+* PostgreSQL (RDS), Vercel, SaaS Platforms
+
+### Backend / Systems
+
+* Python, Rust, C++, SQL
+* Spark, NoSQL, Low-latency Pipelines
+* API Integrations, Secure System Design
+
+### AI/ML & Analytics
+
+* TensorFlow, PyTorch, Scikit-learn
+* Realtime Inference, Model Optimization, LLM Features
+* Predictive Analytics, Personalization Engines
+
+### Cloud & DevOps
+
+* AWS (S3, Lambda, Redshift, RDS), GCP (BigQuery, Dataflow)
+* Databricks, Docker, CI/CD
+* Snowflake, Terraform
+
+### Product & Workflow
+
+* Agile/Kanban, Shipping End-to-End Features
+* KPI Optimization, Fault Tolerance
+* Cross-functional Collaboration, Mentorship
 
 ---
 
 ## 🔧 Focus Areas
 
-- ⚙️ **Data Pipeline Engineering** – Building and optimizing pipelines for ingest, transform, and insight delivery  
-- 📈 **ML & Predictive Analytics** – Structuring models that solve operational and user-facing problems  
-- 🧩 **BI Strategy & KPI Frameworks** – Designing dashboards that turn strategy into visibility  
-- ☁️ **Cloud-Native Analytics** – Deploying scalable solutions across AWS, GCP, and modern data stacks  
-- 🔁 **Collaboration & Mentorship** – Leading with clarity in agile environments and mentoring future analysts
+* ⚙️ **Full-Stack SaaS Engineering** – Building applications with modern web frameworks + cloud backends
+* 🔐 **Cybersecurity-Aware Development** – Secure API integrations, platform security, risk-aware design
+* 📈 **AI/ML & Predictive Systems** – Integrating ML into products for personalization & forecasting
+* ☁️ **Cloud-Native Architecture** – Deploying scalable pipelines and apps across AWS & GCP
+* 🤝 **Team Collaboration** – Partnering with product, data, and engineering teams to ship impactful features
 
 ---
 
 ## 🌱 Currently Exploring
 
-- Apache Arrow for efficient analytics memory management  
-- Data Contracts & Reverse ETL workflows  
-- Deployment orchestration with DBT & Airflow  
+* TypeScript + Next.js for full-stack SaaS
+* Advanced ETL orchestration (Airflow, DBT)
+* Secure SaaS deployments for cybersecurity platforms
+* AI/ML integration into real-time applications
 
 ---
 
 ## 🤝 Let’s Connect
 
-I’m always excited to engage with teams tackling challenges in **data infrastructure**, **AI/ML deployment**, and **analytics strategy**.  
-Feel free to connect for collaboration, code reviews, or coffee chats on all things data!
+Excited to connect with teams building at the intersection of **engineering, analytics, and cybersecurity SaaS**.
+Let’s talk about **cloud platforms, AI/ML in production, or full-stack product development**.
 
----
+📩 [LinkedIn](https://www.linkedin.com/in/deepthi-sathyan/) 
 
-> *"Data becomes valuable when it's engineered for clarity, scaled for growth, and interpreted with purpose."*
+Do you want me to also **design the pinned repos layout** (which 4–6 projects to feature, with exact taglines), so recruiters instantly see your **full-stack + data engineering + AI/ML mix**?
